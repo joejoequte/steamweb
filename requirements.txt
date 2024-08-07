@@ -1,0 +1,5 @@
+#requests==2.24.0
+html2bbcode==2.3.3
+#bs4==0.0.1
+lxml==4.6.1
+#beautifulsoup4==4.9.3
